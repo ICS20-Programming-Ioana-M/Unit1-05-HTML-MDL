@@ -1,1 +1,1 @@
-# Unit1-05-HTML-MDL
+[![GitHub's SuperLinter](https://github.com/ICS20-Programming-Ioana-M/Unit1-05-HTML-MDL/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS20-Programming-Ioana-M/Unit1-05-HTML-MDL/workflows-MDL/actions)
